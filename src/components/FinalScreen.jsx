@@ -45,7 +45,7 @@ export default function FinalScreen() {
                 className="flex flex-col items-center"
             >
                 <img
-                    src="/favicon.png"
+                    src="/donendosted/favicon.png"
                     alt="love"
                     className="w-auto h-60 mb-6 drop-shadow-xl"
                 />
