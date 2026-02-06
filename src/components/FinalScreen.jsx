@@ -97,7 +97,7 @@ function getTimeUntilValentines() {
             ? now.getFullYear() + 1
             : now.getFullYear();
 
-    const valentines = new Date(year, 1, 14, 0, 0, 0); // Feb 14
+    const valentines = new Date(year, 1, 7, 0, 0, 0); // Feb 14
 
     const diff = valentines - now;
 
